@@ -1,0 +1,18 @@
+/*--------------------------------------------------------------
+7.0 Alignments
+--------------------------------------------------------------*/
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: $global-spacing;
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: $global-spacing;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto;
+}
